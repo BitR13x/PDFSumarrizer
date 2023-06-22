@@ -1,5 +1,6 @@
 ## PDFSumarrizer
 AI-powered summarizer for PDF files (powered by huggingface model)
+
 Used model: [led-base-book-summary](https://huggingface.co/pszemraj/led-base-book-summary)https://huggingface.co/pszemraj/led-base-book-summary
 
 Extracting text from PDF by **extract_text.py**

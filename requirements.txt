@@ -1,0 +1,5 @@
+torch==2.0.1
+transformers==4.30.2
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
+PyPDF2==2.12.1
